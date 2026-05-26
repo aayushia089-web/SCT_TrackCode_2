@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/K--Means-Clustering-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-00b894?style=for-the-badge"/>
 
 <br><br>
 
